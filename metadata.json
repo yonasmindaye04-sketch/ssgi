@@ -1,0 +1,6 @@
+{
+  "name": "Kexsio — Nebula 3D Studio",
+  "description": "Immersive 3D WebGL particle landing page for Kexsio digital studio featuring scroll-choreographed 3D particle morphing across seven interactive chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
